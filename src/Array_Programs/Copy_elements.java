@@ -5,7 +5,7 @@ public class Copy_elements {
 		int num[]= {1,2,3,4,5,6};
 		Method_2(num);
 	}
-
+//Adding comment to verify in git
 	static void copy_all_elements_of_one_array_into_another_array(int[] arr) {
        // int[] arr = {1, 2, 3, 4, 5};
         int[] arr1 = new int[arr.length];
